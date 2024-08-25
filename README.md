@@ -1,3 +1,12 @@
+## Basic Information | 基本情報
+林 大介 (Daisuke Hayashi）)
+（株）日立製作所 中央研究所
+
+## External Links | 外部リンク
+- [LinkedIn](https://www.linkedin.com/in/daisuke-hayashi/)
+- [researchmap](https://researchmap.jp/daisuke_hayashi)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=VoK8vHQAAAAJ&hl=ja)
+
 ## Media Coverage | メディア報道
 - [(2024/3/28) 日立HP | あれあったっけ？がスマホで確認できる。食材管理がらくに。[冷蔵庫カメラ]](https://kadenfan.hitachi.co.jp/rei/lineup/rgxcc67v/feature07.html)
     - [(2024/6/4) YouTube | 冷蔵庫カメラで食材管理がアップデート！買い忘れ、買いすぎ防止に役立ちます！(by くらしのラボ) ](https://corp.hitachi-gls.co.jp/_ct/17703307)
