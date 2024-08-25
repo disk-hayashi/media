@@ -1,6 +1,6 @@
 ## Basic Information | 基本情報
-林 大介 (Daisuke Hayashi）)
-（株）日立製作所 中央研究所
+- 林 大介 (Daisuke Hayashi）
+- (株)日立製作所 中央研究所
 
 ## External Links | 外部リンク
 - [LinkedIn](https://www.linkedin.com/in/daisuke-hayashi/)
